@@ -3,133 +3,22 @@
     "categories": [
         {
             "className": "org.joget.apps.userview.model.UserviewCategory",
-            "menus": [
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "mode": "url",
-                        "customHeader": "",
-                        "userviewCacheDuration": "60",
-                        "defaultPortletHeight": "250",
-                        "userviewCacheScope": "application",
-                        "plugins": [],
-                        "customFooter": "",
-                        "urlPortletSetting": [],
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Services",
-                        "enableOffline": "true",
-                        "id": "8ABE4A700E4C4BF0B765B59BB5B1D39D",
-                        "customId": "dashboard"
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "mode": "plugins",
-                        "userviewCacheDuration": "20",
-                        "customHeader": "",
-                        "defaultPortletHeight": "250",
-                        "userviewCacheScope": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Colorful",
-                        "id": "5D00C4A9E43D4127CE4BD73557061D0B",
-                        "enableOffline": "",
-                        "customId": "variant_5"
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "defaultPortletWidth": "1",
-                        "customHeader": "",
-                        "autoHeight": "",
-                        "defaultPortletHeight": "250",
-                        "resizable": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Sales",
-                        "enableOffline": "",
-                        "customId": "variant_6",
-                        "mode": "",
-                        "userviewCacheDuration": "20",
-                        "userviewCacheScope": "",
-                        "userviewId": "dashboard",
-                        "urlPortletSetting": [],
-                        "id": "FEEA8820BFEB42A105CD64B3BA483429",
-                        "customPortletSetting": []
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "mode": "plugins",
-                        "userviewCacheDuration": "20",
-                        "customHeader": "",
-                        "defaultPortletHeight": "250",
-                        "userviewCacheScope": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Analytics",
-                        "id": "351B5FC5E74842BAD0C41507D701987D",
-                        "enableOffline": "",
-                        "customId": "variant_7"
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "mode": "plugins",
-                        "userviewCacheDuration": "20",
-                        "customHeader": "",
-                        "defaultPortletHeight": "250",
-                        "userviewCacheScope": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Procurement",
-                        "id": "962E2FED5B3140E305F989CAEDEDB087",
-                        "enableOffline": "",
-                        "customId": "variant_8"
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "defaultPortletWidth": "1",
-                        "customHeader": "",
-                        "autoHeight": "",
-                        "defaultPortletHeight": "250",
-                        "resizable": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Simple I",
-                        "enableOffline": "",
-                        "customId": "variant_3",
-                        "mode": "plugins",
-                        "userviewCacheDuration": "20",
-                        "userviewCacheScope": "",
-                        "userviewId": "dashboard",
-                        "urlPortletSetting": [],
-                        "id": "848EC9C0E4924E3B0A6367E2140A765E",
-                        "customPortletSetting": []
-                    }
-                },
-                {
-                    "className": "org.joget.plugin.enterprise.DashboardMenu",
-                    "properties": {
-                        "mode": "plugins",
-                        "userviewCacheDuration": "20",
-                        "customHeader": "",
-                        "defaultPortletHeight": "250",
-                        "userviewCacheScope": "",
-                        "plugins": [],
-                        "customFooter": "",
-                        "label": "<i class=\"fas fa-chart-pie\"><\/i> Simple II",
-                        "id": "3F37D4ACC2C04A8618673515A8FE06DD",
-                        "enableOffline": "",
-                        "customId": "variant_4"
-                    }
+            "menus": [{
+                "className": "org.joget.plugin.enterprise.DashboardMenu",
+                "properties": {
+                    "mode": "plugins",
+                    "userviewCacheDuration": "20",
+                    "customHeader": "",
+                    "defaultPortletHeight": "250",
+                    "userviewCacheScope": "",
+                    "plugins": [],
+                    "customFooter": "",
+                    "label": "<i class=\"fas fa-chart-pie\"><\/i> Simple II",
+                    "id": "3F37D4ACC2C04A8618673515A8FE06DD",
+                    "enableOffline": "",
+                    "customId": "variant_4"
                 }
-            ],
+            }],
             "properties": {
                 "hide": "",
                 "permission": {
